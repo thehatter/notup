@@ -9,6 +9,7 @@
   "author": "thehatter",
   "license": "ISC",
   "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
     "express": "^4.14.0",
     "request": "^2.79.0"
   }
